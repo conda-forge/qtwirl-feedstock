@@ -22,7 +22,7 @@ requirements:
     - python
     - pandas
     - root
-    - alphatwirl >=0.23.2
+    - alphatwirl >=0.23.3
 
 test:
   imports:
