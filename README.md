@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About qtwirl
 ============
 
@@ -19,8 +15,17 @@ qtwirl (quick-twirl) provides one-function interface to AlphaTwirl.
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/qtwirl-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/qtwirl-feedstock)
+
+<table><tr>
+    
+    <td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=6361&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/qtwirl-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
